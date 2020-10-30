@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Lets cut right to the chase, heres some of my best projects:
+https://github.com/SamuelJTaylor22/kanban
+https://github.com/SamuelJTaylor22/Keepr
+https://github.com/SamuelJTaylor22/inspire
+https://github.com/LawrenceHaney/dcdr
+https://github.com/NehemiahBoone/game-forum
+
+
 <!--
 **SamuelJTaylor22/SamuelJTaylor22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
